@@ -13,4 +13,4 @@ echo $user_name
 echo "The sum of your favourite numbers: " $sum
 echo "The product of your favourite numbers: " $product
 
-# To make script runnable on Linux use: chmod +x ./Hello.sh
+# To make script runnable on Linux use: chmod +x ./HelloNameSumProd.sh
